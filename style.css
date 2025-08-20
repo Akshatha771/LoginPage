@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #FFF5F2, #F5BABB);
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 250px;
+    text-align: center;
+}
+h2 {
+    margin-bottom: 15px;
+}
+input{
+    width: 90px;
+    padding: 8px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+
+}
+button{
+    width: 95%;
+    padding: 8px;
+    background-color: #568F87;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin-top: 10px;
+}
